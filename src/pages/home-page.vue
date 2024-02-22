@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <router-view />
+asfasfasf
 </template>
 
 <style scoped>
